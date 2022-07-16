@@ -48,6 +48,12 @@ private val coreContributors = listOf(
         photoUrl = "https://raw.githubusercontent.com/patrykmichalik/brand/master/logo-on-indigo.png",
         socialUrl = "https://patrykmichalik.com",
     ),
+    Contributor(
+        name = "Kacper Zacharski",
+        username = "KZacharski",
+        photoUrl = "https://cdn.puffercat.xyz/c/branding/logo-basic.png",
+        socialUrl = "https://puffercat.xyz",
+    ),
 )
 
 private val specialThanks = listOf(
@@ -110,7 +116,7 @@ fun About(navController: NavController) {
                         modifier = Modifier.size(72.dp),
                     )
                     Text(
-                        text = stringResource(id = R.string.app_name),
+                        text = stringResource(id = R.string.app_name_about),
                         style = MaterialTheme.typography.titleLarge,
                         color = MaterialTheme.colorScheme.onBackground,
                         modifier = Modifier.padding(top = 12.dp),
