@@ -575,6 +575,7 @@
     <icon drawable="@drawable/whatsapp" package="com.whatsapp" name="WhatsApp" />
     <icon drawable="@drawable/wordweb" package="com.wordwebsoftware.android.wordweb" name="WordWeb" />
     <icon drawable="@drawable/wps_office" package="cn.wps.moffice_eng" name="WPS Office" />
+    <icon drawable="@drawable/wulkanowy" package="io.github.wulkanowy" name="Wulkanowy" />
     <icon drawable="@drawable/xbox" package="com.microsoft.xboxone.smartglass" name="Xbox" />
     <icon drawable="@drawable/xda" package="com.xda.labs.play" name="XDA" />
     <icon drawable="@drawable/xda" package="com.xda.labs" name="XDA" />
