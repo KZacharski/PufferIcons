@@ -179,7 +179,9 @@
     <icon drawable="@drawable/eight_ball_pool" package="com.miniclip.eightballpool" name="8 Ball Pool" />
     <icon drawable="@drawable/eksi_sozluk" package="com.eksiteknoloji.eksisozluk" name="ekşi sözlük" />
     <icon drawable="@drawable/element" package="im.vector.app" name="Element" />
+    <icon drawable="@drawable/elo" package="pl.edu.vulcan.elo2022" name="eLO 2022" />
     <icon drawable="@drawable/ella" package="rocks.poopjournal.Ella" name="Ella" />
+    <icon drawable="@drawable/evernote" package="com.evernote" name="Evernote" />
     <icon drawable="@drawable/exteragram" package="com.exteragram.messenger" name="exteraGram" />
     <icon drawable="@drawable/facebook" package="com.facebook.katana" name="Facebook" />
     <icon drawable="@drawable/facebook" package="com.facebook.lite" name="Facebook" />
@@ -381,6 +383,7 @@
     <icon drawable="@drawable/newpipe" package="org.schabi.newpipe" name="NewPipe" />
     <icon drawable="@drawable/nextcloud" package="com.nextcloud.client" name="Nextcloud" />
     <icon drawable="@drawable/notenapp" package="com.notenapp" name="Notenapp" />
+    <icon drawable="@drawable/notion" package="notion.id" name="Notion" />
     <icon drawable="@drawable/ns" package="nl.ns.android.activity" name="NS" />
     <icon drawable="@drawable/nubank" package="com.nu.production" name="Nubank" />
     <icon drawable="@drawable/octoapp" package="de.crysxd.octoapp" name="OctoApp" />
