@@ -1,4 +1,5 @@
 package app.lawnchair.lawnicons.ui.component
+import app.lawnchair.lawnicons.R
 
 import androidx.compose.animation.Crossfade
 import androidx.compose.foundation.layout.Box
