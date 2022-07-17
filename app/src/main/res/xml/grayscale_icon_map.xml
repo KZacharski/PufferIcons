@@ -259,6 +259,7 @@
     <icon drawable="@drawable/google_pay" package="com.google.android.apps.walletnfcrel" name="Google Pay" />
     <icon drawable="@drawable/google_photos" package="com.google.android.apps.photos" name="Google Photos" />
     <icon drawable="@drawable/google_play_books" package="com.google.android.apps.books" name="Google Play Books" />
+    <icon drawable="@drawable/playconsole" package="com.google.android.apps.playconsole" name="Google Play Console" />
     <icon drawable="@drawable/google_play_games" package="com.google.android.play.games" name="Google Play Games" />
     <icon drawable="@drawable/google_play_store" package="com.android.vending" name="Google Play Store" />
     <icon drawable="@drawable/google_podcasts" package="com.google.android.apps.podcasts" name="Google Podcasts" />
@@ -440,6 +441,7 @@
     <icon drawable="@drawable/pizza_hut" package="pt.wingman.pizzahut" name="Pizza Hut" />
     <icon drawable="@drawable/pizza_hut" package="se.leeroygroup.pizzahut" name="Pizza Hut" />
     <icon drawable="@drawable/pizza_hut" package="tr.com.pizzahut" name="Pizza Hut" />
+    <icon drawable="@drawable/play24" package="com.play.play24m" name="Play24" />
     <icon drawable="@drawable/plus_messenger" package="org.telegram.plus" name="Plus Messenger" />
     <icon drawable="@drawable/pocket_casts" package="au.com.shiftyjelly.pocketcasts" name="Pocket Casts" />
     <icon drawable="@drawable/pokemon_go" package="com.nianticlabs.pokemongo" name="Pokémon GO" />
@@ -542,6 +544,7 @@
     <icon drawable="@drawable/telegram" package="org.telegram.messenger" name="Telegram" />
     <icon drawable="@drawable/telegram" package="org.thunderdog.challegram" name="Telegram X" />
     <icon drawable="@drawable/telegram" package="org.thunderdog.challegramtwo" name="Telegram X" />
+    <icon drawable="@drawable/termius" package="com.server.auditor.ssh.client" name="Termius" />
     <icon drawable="@drawable/termux" package="com.termux" name="Termux" />
     <icon drawable="@drawable/the_economist" package="com.economist.lamarr" name="Economist" />
     <icon drawable="@drawable/theathletic" package="com.theathletic" name="The Athletic" />
@@ -549,6 +552,7 @@
     <icon drawable="@drawable/tidal" package="com.aspiro.tidal" name="Tidal" />
     <icon drawable="@drawable/tiktok" package="com.zhiliaoapp.musically" name="TikTok" />
     <icon drawable="@drawable/tinkoff" package="com.idamob.tinkoff.android" name="Tinkoff" />
+    <icon drawable="@drawable/tipper" package="pl.kacperzacharski.puffercat.tipper" name="Tipper by myCALC"/>
     <icon drawable="@drawable/to_dont" package="rocks.poopjournal.todont" name="To Donʼt" />
     <icon drawable="@drawable/todoist" package="com.todoist" name="Todoist" />
     <icon drawable="@drawable/tokopedia" package="com.tokopedia.tkpd" name="Tokopedia" />
@@ -562,6 +566,7 @@
     <icon drawable="@drawable/twitch" package="tv.twitchmod.android.app" name="Twitch" />
     <icon drawable="@drawable/twitter" package="com.twitter.android.lite" name="Twitter" />
     <icon drawable="@drawable/twitter" package="com.twitter.android" name="Twitter" />
+    <icon drawable="@drawable/tvn24go" package="pl.tvn.tvn24go" name="TVN24 GO" />
     <icon drawable="@drawable/vacation_days" package="rocks.poopjournal.vacationdays" name="Vacation Days" />
     <icon drawable="@drawable/vanced_manager" package="com.vanced.manager" name="Vanced Manager" />
     <icon drawable="@drawable/vanced_youtube_music" package="com.vanced.android.apps.youtube.music" name="Vanced YouTube Music" />
