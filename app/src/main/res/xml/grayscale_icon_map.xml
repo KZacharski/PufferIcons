@@ -245,9 +245,11 @@
     <icon drawable="@drawable/google_chrome" package="org.chromium.chrome" name="Chromium" />
     <icon drawable="@drawable/google_chrome" package="org.ungoogled.chromium.stable" name="Ungoogled Chromium" />
     <icon drawable="@drawable/google_classroom" package="com.google.android.apps.classroom" name="Google Classroom" />
+    <icon drawable="@drawable/google_crowdsource" package="com.google.android.apps.village.boond" name="Google Crowdsource" />
     <icon drawable="@drawable/google_docs" package="com.google.android.apps.docs.editors.docs" name="Google Docs" />
     <icon drawable="@drawable/google_drive" package="com.google.android.apps.docs" name="Google Drive" />
     <icon drawable="@drawable/google_duo" package="com.google.android.apps.tachyon" name="Google Duo" />
+    <icon drawable="@drawable/google_earth" package="com.google.earth" name="Google Earth" />
     <icon drawable="@drawable/google_fi" package="com.google.android.apps.tycho" name="Google Fi" />
     <icon drawable="@drawable/google_fit" package="com.google.android.apps.fitness" name="Google Fit" />
     <icon drawable="@drawable/google_home" package="com.google.android.apps.chromecast.app" name="Google Home" />
@@ -274,6 +276,7 @@
     <icon drawable="@drawable/govee_home" package="com.govee.home" name="Govee Home" />
     <icon drawable="@drawable/grab" package="com.grabtaxi.driver2" name="Grab" />
     <icon drawable="@drawable/grab" package="com.grabtaxi.passenger" name="Grab" />
+    <icon drawable="@drawable/grekbench" package="com.primatelabs.geekbench5" name="Grekbench" />
     <icon drawable="@drawable/hago" package="com.yy.hiyo" name="Hago" />
     <icon drawable="@drawable/hex_installer" package="project.vivid.hex.bodhi" name="Hex Installer" />
     <icon drawable="@drawable/hotstar" package="in.startv.hotstar.dplus" name="Disney+ Hotstar" />
@@ -306,7 +309,8 @@
     <icon drawable="@drawable/komoot" package="de.komoot.android" name="Komoot" />
     <icon drawable="@drawable/kucoin" package="com.kubi.kucoin" name="Kucoin" />
     <icon drawable="@drawable/kwgt" package="org.kustom.widget" name="KWGT" />
-    <icon drawable="@drawable/lastpass" package="com.lastpass.lpandroid" name="KWGT" />
+    <icon drawable="@drawable/lastpass" package="com.lastpass.lpandroid" name="LastPass" />
+    <icon drawable="@drawable/lawnicons" package="app.lawnchair.lawnicons" name="Lawnicons" />
     <icon drawable="@drawable/lazada" package="com.lazada.android" name="Lazada" />
     <icon drawable="@drawable/lbry" package="io.lbry.browser" name="LBRY" />
     <icon drawable="@drawable/libretube" package="com.github.libretube" name="LibreTube" />
@@ -405,6 +409,8 @@
     <icon drawable="@drawable/osmand_plus" package="net.osmand.plus" name="OsmAnd+" />
     <icon drawable="@drawable/osmand" package="net.osmand" name="OsmAnd" />
     <icon drawable="@drawable/oto_music" package="com.piyush.music" name="Oto Music" />
+    <icon drawable="@drawable/overdrop" package="widget.dd.com.overdrop.free" name="Overdrop" />
+    <icon drawable="@drawable/overdrop" package="widget.dd.com.overdrop.pro" name="Overdrop Pro Key" />
     <icon drawable="@drawable/ovinfo" package="nl.skywave.ovinfo" name="OVinfo" />
     <icon drawable="@drawable/ovo" package="ovo.id" name="OVO" />
     <icon drawable="@drawable/parsec" package="tv.parsec.client" name="Parsec" />
