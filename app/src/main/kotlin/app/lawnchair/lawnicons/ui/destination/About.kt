@@ -43,12 +43,6 @@ private val coreContributors = listOf(
         socialUrl = "https://twitter.com/paphonb",
     ),
     Contributor(
-        name = "Patryk Michalik",
-        username = "patrykmichalik",
-        photoUrl = "https://raw.githubusercontent.com/patrykmichalik/brand/master/logo-on-indigo.png",
-        socialUrl = "https://patrykmichalik.com",
-    ),
-    Contributor(
         name = "Kacper Zacharski",
         username = "KZacharski",
         photoUrl = "https://cdn.puffercat.xyz/c/branding/logo-basic.png",
