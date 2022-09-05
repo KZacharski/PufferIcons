@@ -40,25 +40,10 @@ private val coreContributors = listOf(
         socialUrl = "https://twitter.com/paphonb",
     ),
     Contributor(
-        name = "Kacper Zacharski",
+        name = "Kacper Zacharski (Puffercat)",
         username = "KZacharski",
         photoUrl = "https://cdn.puffercat.xyz/c/branding/logo-basic.png",
         socialUrl = "https://puffercat.xyz",
-    ),
-)
-
-private val specialThanks = listOf(
-    Contributor(
-        name = "Eatos",
-        photoUrl = "https://avatars.githubusercontent.com/u/52837599",
-        socialUrl = "https://twitter.com/eatosapps",
-        descriptionRes = R.string.special_thanks_icon,
-    ),
-    Contributor(
-        name = "Rik Koedoot",
-        photoUrl = "https://avatars.githubusercontent.com/u/29402532",
-        username = "rikkoedoot",
-        descriptionRes = R.string.special_thanks_name,
     ),
 )
 
@@ -156,23 +141,6 @@ fun About(navController: NavController) {
                         label = stringResource(id = R.string.see_all_contributors),
                         divider = false,
                     )
-                }
-            }
-            item {
-                Card(
-                    label = stringResource(id = R.string.special_thanks),
-                    modifier = Modifier.padding(top = 16.dp),
-                ) {
-                    specialThanks.mapIndexed { index, it ->
-                        ContributorRow(
-                            name = it.name,
-                            photoUrl = it.photoUrl,
-                            profileUrl = it.username?.let { "https://github.com/${it}" },
-                            description = it.descriptionRes?.let { stringResource(id = it) },
-                            divider = index != specialThanks.lastIndex,
-                            socialUrl = it.socialUrl,
-                        )
-                    }
                 }
             }
             item {
