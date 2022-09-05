@@ -329,7 +329,6 @@
     <icon drawable="@drawable/kucoin" package="com.kubi.kucoin" name="Kucoin" />
     <icon drawable="@drawable/kwgt" package="org.kustom.widget" name="KWGT" />
     <icon drawable="@drawable/lastpass" package="com.lastpass.lpandroid" name="LastPass" />
-    <icon drawable="@drawable/lawnicons" package="app.lawnchair.lawnicons" name="Lawnicons" />
     <icon drawable="@drawable/lazada" package="com.lazada.android" name="Lazada" />
     <icon drawable="@drawable/lbry" package="io.lbry.browser" name="LBRY" />
     <icon drawable="@drawable/lesspass" package="com.lesspass.android" name="LessPass" />
@@ -500,6 +499,7 @@
     <icon drawable="@drawable/protonvpn" package="ch.protonvpn.android" name="Proton VPN" />
     <icon drawable="@drawable/pubg" package="com.pubg.newstate" name="PUBG" />
     <icon drawable="@drawable/pubg" package="com.tencent.ig" name="PUBG" />
+    <icon drawable="@drawable/puffericons" package="app.lawnchair.lawnicons" name="PufferIcons" />
     <icon drawable="@drawable/pulseway" package="com.mobilepcmonitor" name="Pulseway" />
     <icon drawable="@drawable/pushbullet" package="com.pushbullet.android" name="Pushbullet" />
     <icon drawable="@drawable/quickswitch" package="xyz.paphonb.quickstepswitcher" name="QuickSwitch" />
