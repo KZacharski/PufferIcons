@@ -1,10 +1,7 @@
 package app.lawnchair.lawnicons.ui.destination
 
 import androidx.compose.foundation.Image
-import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.material.ContentAlpha
 import androidx.compose.material.icons.Icons
@@ -62,6 +59,24 @@ private val specialThanks = listOf(
         photoUrl = "https://avatars.githubusercontent.com/u/29402532",
         username = "rikkoedoot",
         descriptionRes = R.string.special_thanks_name,
+    ),
+)
+
+private val myApps = listOf(
+    Contributor(
+        name = "Blurry Wallpapers",
+        photoUrl = "https://cdn.puffercat.xyz/c/blurry-wallpapers/logo.png",
+        socialUrl = "https://play.google.com/store/apps/details?id=xyz.puffercat.blurrywalls.android",
+    ),
+    Contributor(
+        name = "Shapes - Wallpapers",
+        photoUrl = "https://cdn.puffercat.xyz/c/shapes/logo.png",
+        socialUrl = "https://play.google.com/store/apps/details?id=xyz.puffercat.shapes.android",
+    ),
+    Contributor(
+        name = "Tipper by myCALC",
+        photoUrl = "https://cdn.puffercat.xyz/c/lawnicons-fork/assets/tippericon.png",
+        socialUrl = "https://play.google.com/store/apps/details?id=pl.kacperzacharski.puffercat.tipper",
     ),
 )
 
@@ -160,6 +175,26 @@ fun About(navController: NavController) {
                     }
                 }
             }
+            item {
+                Card(
+                    label = stringResource(id = R.string.my_apps),
+                    modifier = Modifier.padding(top = 16.dp,),
+                ) {
+                    myApps.mapIndexed { index, it ->
+                        ContributorRow(
+                            name = it.name,
+                            photoUrl = it.photoUrl,
+                            socialUrl = it.socialUrl,
+                            divider = index != myApps.lastIndex,
+                        )
+                    }
+                }
+            }
+            item {
+                Spacer(modifier = Modifier.padding(top = 50.dp,),)
+            }
+
+
         }
     }
 }

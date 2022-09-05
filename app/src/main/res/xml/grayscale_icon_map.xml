@@ -36,6 +36,7 @@
     <icon drawable="@drawable/bitwarden" package="com.x8bit.bitwarden" name="Bitwarden" />
     <icon drawable="@drawable/blokada" package="org.blokada.alarm.dnschanger" name="Blokada" />
     <icon drawable="@drawable/blokada" package="org.blokada.fem.fdroid" name="Blokada" />
+    <icon drawable="@drawable/blurry_wallpapers" package="xyz.puffercat.blurrywalls.android" name="Blurry Wallpapers" />
     <icon drawable="@drawable/bni_mobile" package="src.com.bni" name="BNI Mobile Banking" />
     <icon drawable="@drawable/boom_and_megaboom" package="com.logitech.ueboom" name="BOOM &amp; MEGABOOM" />
     <icon drawable="@drawable/boom_beach" package="com.supercell.boombeach" name="Boom Beach" />
@@ -150,6 +151,7 @@
     <icon drawable="@drawable/covpass" package="de.rki.covpass.app" name="CovPass" />
     <icon drawable="@drawable/cpu_z" package="com.cpuid.cpu_z" name="CPU Z" />
     <icon drawable="@drawable/dana" package="id.dana" name="DANA" />
+    <icon drawable="@drawable/darkpapers" package="com.dark.papers" name="DarkPapers" />
     <icon drawable="@drawable/darq" package="com.kieronquinn.app.darq" name="DarQ" />
     <icon drawable="@drawable/dashlane" package="com.dashlane" name="Dashlane" />
     <icon drawable="@drawable/daybridge" package="com.daybridge.android" name="Daybridge" />
@@ -292,6 +294,7 @@
     <icon drawable="@drawable/grab" package="com.grabtaxi.passenger" name="Grab" />
     <icon drawable="@drawable/grekbench" package="com.primatelabs.geekbench5" name="Geekbench" />
     <icon drawable="@drawable/hago" package="com.yy.hiyo" name="Hago" />
+    <icon drawable="@drawable/hbo_max" package="com.hbo.hbonow" name="HBO MAX" />
     <icon drawable="@drawable/hex_installer" package="project.vivid.hex.bodhi" name="Hex Installer" />
     <icon drawable="@drawable/hotstar" package="in.startv.hotstar.dplus" name="Disney+ Hotstar" />
     <icon drawable="@drawable/hotstar" package="in.startv.hotstar" name="Disney+ Hotstar" />
@@ -316,6 +319,7 @@
     <icon drawable="@drawable/karwei" package="nl.karwei.app.android" name="KARWEI" />
     <icon drawable="@drawable/kde_connect" package="org.kde.kdeconnect_tp" name="KDE Connect" />
     <icon drawable="@drawable/khan_academy" package="org.khanacademy.android" name="Khan Academy" />
+    <icon drawable="@drawable/kiedyprzyjedzie" package="pl.kiedyprzyjedzie.mobile.TravellerDroid" name="KiedyPrzyjedzie" />
     <icon drawable="@drawable/kiwi_browser" package="com.kiwibrowser.browser.dev" name="Kiwi Browser" />
     <icon drawable="@drawable/kiwi_browser" package="com.kiwibrowser.browser" name="Kiwi Browser" />
     <icon drawable="@drawable/klck" package="org.kustom.lockscreen" name="KLCK" />
@@ -431,12 +435,14 @@
     <icon drawable="@drawable/octoapp" package="de.crysxd.octoapp" name="OctoApp" />
     <icon drawable="@drawable/odysee" package="com.odysee.app" name="Odysee" />
     <icon drawable="@drawable/oebb" package="at.oebb.ts" name="ÖBB" />
+    <icon drawable="@drawable/olx" package="pl.tablica" name="OLX.pl" />
     <icon drawable="@drawable/onedotonedotonedotone" package="com.cloudflare.onedotonedotonedotone" name="1.1.1.1" />
     <icon drawable="@drawable/onedrive" package="com.microsoft.skydrive" name="OneDrive" />
     <icon drawable="@drawable/onepassword" package="com.agilebits.onepassword" name="1Password" />
     <icon drawable="@drawable/opera_browser" package="com.opera.browser" name="Opera Browser" />
     <icon drawable="@drawable/opera_browser" package="com.opera.touch" name="Opera Touch" />
     <icon drawable="@drawable/opera_gx" package="com.opera.gx" name="Opera GX" />
+    <icon drawable="@drawable/orange_flex" package="com.orange.rn.dop" name="Orange Flex" />
     <icon drawable="@drawable/orbot" package="org.torproject.android" name="Orbot" />
     <icon drawable="@drawable/organic_maps" package="app.organicmaps" name="Organic Maps" />
     <icon drawable="@drawable/osmand_plus" package="net.osmand.plus" name="OsmAnd+" />
@@ -523,6 +529,7 @@
     <icon drawable="@drawable/sennheiser_smart_control" package="com.sennheiser.control" name="Sennheiser Smart Control" />
     <icon drawable="@drawable/sensor_box" package="imoblife.androidsensorbox" name="Sensor Box" />
     <icon drawable="@drawable/settings" package="com.android.settings" name="Settings" />
+    <icon drawable="@drawable/shapes" package="xyz.puffercat.shapes.android" name="Shapes" />
     <icon drawable="@drawable/shazam" package="com.shazam.android" name="Shazam" />
     <icon drawable="@drawable/shopee" package="com.shopee.br" name="Shopee" />
     <icon drawable="@drawable/shopee" package="com.shopee.id" name="Shopee" />
@@ -596,6 +603,7 @@
     <icon drawable="@drawable/termux" package="com.termux" name="Termux" />
     <icon drawable="@drawable/the_economist" package="com.economist.lamarr" name="Economist" />
     <icon drawable="@drawable/theathletic" package="com.theathletic" name="The Athletic" />
+    <icon drawable="@drawable/threedmark" package="com.futuremark.dmandroid.application" name="3DMark"/>
     <icon drawable="@drawable/ticktick" package="com.ticktick.task" name="TickTick" />
     <icon drawable="@drawable/tidal" package="com.aspiro.tidal" name="Tidal" />
     <icon drawable="@drawable/tiktok" package="com.zhiliaoapp.musically" name="TikTok" />
@@ -628,6 +636,7 @@
     <icon drawable="@drawable/vivaldi" package="com.vivaldi.browser" name="Vivaldi" />
     <icon drawable="@drawable/vlc" package="org.videolan.vlc" name="VLC" />
     <icon drawable="@drawable/waifupx" package="dg.waifu.walls" name="WAIFUPX" />
+    <icon drawable="@drawable/wallfever" package="com.amaan.wallfever" name="Wallfever" />
     <icon drawable="@drawable/wayback_machine" package="com.archive.waybackmachine" name="Wayback Machine" />
     <icon drawable="@drawable/wear_os" package="com.google.android.wearable.app" name="Wear OS" />
     <icon drawable="@drawable/wear" package="com.samsung.android.app.watchmanager" name="Samsung Wear" />
