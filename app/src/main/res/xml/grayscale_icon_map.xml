@@ -19,6 +19,7 @@
     <icon drawable="@drawable/apple_music" package="com.apple.android.music" name="Apple Music" />
     <icon drawable="@drawable/application_inspector" package="com.ubqsoft.sec01" name="Application Inspector" />
     <icon drawable="@drawable/asana" package="com.asana.app" name="Asana" />
+    <icon drawable="@drawable/asystentsekretarki" package="pl.edu.vulcan.sdeipnon" name="Asystent Sekretarki VULCAN" />
     <icon drawable="@drawable/audiofx" package="org.lineageos.audiofx" name="AudioFX" />
     <icon drawable="@drawable/aurora_droid" package="com.aurora.adroid" name="Aurora Droid" />
     <icon drawable="@drawable/aurora_store" package="com.aurora.store" name="Aurora Store" />
@@ -190,6 +191,7 @@
     <icon drawable="@drawable/dropbox" package="com.dropbox.android" name="Dropbox" />
     <icon drawable="@drawable/duckduckgo" package="com.duckduckgo.mobile.android" name="DuckDuckGo" />
     <icon drawable="@drawable/duolingo" package="com.duolingo" name="Duolingo" />
+    <icon drawable="@drawable/dzienniczek_vulcan" package="pl.edu.vulcan.hebe" name="Dzienniczek VULCAN" />
     <icon drawable="@drawable/ebay_kleinanzeigen" package="com.ebay.kleinanzeigen" name="eBay Kleinanzeigen" />
     <icon drawable="@drawable/ebay" package="com.ebay.mobile" name="eBay" />
     <icon drawable="@drawable/eight_ball_pool" package="com.miniclip.eightballpool" name="8 Ball Pool" />
@@ -331,8 +333,10 @@
     <icon drawable="@drawable/lastpass" package="com.lastpass.lpandroid" name="LastPass" />
     <icon drawable="@drawable/lazada" package="com.lazada.android" name="Lazada" />
     <icon drawable="@drawable/lbry" package="io.lbry.browser" name="LBRY" />
+    <icon drawable="@drawable/lekcja_plus" package="pl.vulcan.lekcja" name="Lekcja+" />
     <icon drawable="@drawable/lesspass" package="com.lesspass.android" name="LessPass" />
     <icon drawable="@drawable/libretube" package="com.github.libretube" name="LibreTube" />
+    <icon drawable="@drawable/librus" package="pl.librus.synergiaDru2" name="Librus" />
     <icon drawable="@drawable/lichess" package="org.lichess.mobileapp" name="Lichess" />
     <icon drawable="@drawable/life360" package="com.life360.android.safetymapd" name="Life360" />
     <icon drawable="@drawable/line" package="jp.naver.line.android" name="LINE" />
@@ -390,12 +394,15 @@
     <icon drawable="@drawable/mini_metro" package="nz.co.codepoint.minimetro" name="Mini Metro" />
     <icon drawable="@drawable/milanote" package="com.milanote.milanoteApp" name="Milanote" />
     <icon drawable="@drawable/minisweeper" package="com.AntonBergaker.minisweeper" name="miniSweeper" />
+    <icon drawable="@drawable/minwentarz" package="pl.edu.vulcan.demeter" name="mInwentarz VULCAN" />
     <icon drawable="@drawable/mixplorer" package="com.mixplorer.beta" name="MiXplorer" />
     <icon drawable="@drawable/mixplorer" package="com.mixplorer.silver" name="MiXplorer" />
     <icon drawable="@drawable/mixplorer" package="com.mixplorer" name="MiXplorer" />
+    <icon drawable="@drawable/mobidziennik" package="pl.mobidziennik.web" name="mobiDziennik" />
     <icon drawable="@drawable/mobile_legends" package="com.mobile.legends" name="Mobile Legends" />
     <icon drawable="@drawable/mobiles_bezahlen" package="com.s_payment.mobiles_bezahlen" name="Mobiles Bezahlen" />
     <icon drawable="@drawable/moj_orange" package="pl.orange.mojeorange" name="Mój Orange" />
+    <icon drawable="@drawable/moodle" package="com.moodle.moodlemobile" name="Moodle" />
     <icon drawable="@drawable/morse" package="rocks.poopjournal.morse" name="Morse" />
     <icon drawable="@drawable/moto" package="com.motorola.moto" name="Moto" />
     <icon drawable="@drawable/moto_device_help" package="com.motorola.genie" name="Moto Device Help" />
@@ -414,6 +421,7 @@
     <icon drawable="@drawable/mysmartfren" package="com.smartfren" name="mySF." />
     <icon drawable="@drawable/mytelkomsel" package="com.telkomsel.telkomselcm" name="MyTelkomsel" />
     <icon drawable="@drawable/myxl" package="com.apps.MyXL" name="myXL" />
+    <icon drawable="@drawable/nasze_szkoly" package="pl.librus.synergiaJst" name="Nasze Szkoły" />
     <icon drawable="@drawable/nebula" package="tv.standard.nebula" name="Nebula" />
     <icon drawable="@drawable/naver_dictionary" package="com.nhn.android.naverdic" name="Naver Dictionary" />
     <icon drawable="@drawable/naver_map" package="com.nhn.android.nmap" name="Naver Map" />
@@ -431,6 +439,7 @@
     <icon drawable="@drawable/notion" package="notion.id" name="Notion" />
     <icon drawable="@drawable/ns" package="nl.ns.android.activity" name="NS" />
     <icon drawable="@drawable/nubank" package="com.nu.production" name="Nubank" />
+    <icon drawable="@drawable/obecnosc_vulcan" package="pl.edu.vulcan.charon.rev" name="Obecność Vulcan" />
     <icon drawable="@drawable/octoapp" package="de.crysxd.octoapp" name="OctoApp" />
     <icon drawable="@drawable/odysee" package="com.odysee.app" name="Odysee" />
     <icon drawable="@drawable/oebb" package="at.oebb.ts" name="ÖBB" />
@@ -590,6 +599,8 @@
     <icon drawable="@drawable/sync" package="com.laurencedawson.reddit_sync" name="Sync" />
     <icon drawable="@drawable/syncthing" package="com.github.catfriend1.syncthingandroid" name="Syncthing" />
     <icon drawable="@drawable/syncthing" package="com.nutomic.syncthingandroid" name="Syncthing" />
+    <icon drawable="@drawable/synergia" package="pl.librus.synergia" name="Synergia" />
+    <icon drawable="@drawable/szkolnyeu" package="pl.szczodrzynski.edziennik" name="Szkolny.eu" />
     <icon drawable="@drawable/tagesschau" package="de.tagesschau" name="tagesschau" />
     <icon drawable="@drawable/talon" package="com.klinker.android.twitter_l" name="Talon for Twitter" />
     <icon drawable="@drawable/tapatalk_pro" package="com.quoord.tapatalk" name="Tapatalk Pro" />
