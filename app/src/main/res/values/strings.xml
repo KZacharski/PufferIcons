@@ -12,4 +12,5 @@
     <string name="special_thanks_icon">For inspiring the app icon.</string>
     <string name="special_thanks_name">For naming the app.</string>
     <string name="my_apps">Check out my other apps</string>
+    <string name="important">Icon request/Bug report</string>
 </resources>

@@ -32,6 +32,19 @@ import app.lawnchair.lawnicons.ui.util.Contributor
 import app.lawnchair.lawnicons.ui.util.Destinations
 import app.lawnchair.lawnicons.util.appIcon
 
+private val requestBugForm = listOf(
+    Contributor(
+        name = "Form (Preferred)",
+        photoUrl = "https://cdn.puffercat.xyz/c/lawnicons-fork/assets/form.png",
+        socialUrl = "https://pfrcat.link/puffericons-form",
+    ),
+    Contributor(
+        name = "GitHub Issues",
+        photoUrl = "https://cdn.puffercat.xyz/c/lawnicons-fork/assets/github.png",
+        socialUrl = "https://github.com/KZacharski/PufferIcons/issues",
+    ),
+)
+
 private val coreContributors = listOf(
     Contributor(
         name = "paphonb",
@@ -123,7 +136,22 @@ fun About(navController: NavController) {
                 }
             }
             item {
-                Card(label = stringResource(id = R.string.core_contributors)) {
+                Card(
+                    label = stringResource(id = R.string.important),
+                ) {
+                    requestBugForm.mapIndexed { index, it ->
+                        ContributorRow(
+                            name = it.name,
+                            photoUrl = it.photoUrl,
+                            socialUrl = it.socialUrl,
+                            divider = index != requestBugForm.lastIndex,
+                        )
+                    }
+                }
+            }
+            item {
+                Card(label = stringResource(id = R.string.core_contributors),
+                    modifier = Modifier.padding(top = 16.dp,)) {
                     coreContributors.mapIndexed { index, it ->
                         ContributorRow(
                             name = it.name,

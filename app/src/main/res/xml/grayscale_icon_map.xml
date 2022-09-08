@@ -464,6 +464,7 @@
     <icon drawable="@drawable/paypal" package="com.paypal.android.p2pmobile" name="PayPal" />
     <icon drawable="@drawable/pedulilindungi" package="com.telkom.tracencare" name="PeduliLindungi" />
     <icon drawable="@drawable/personal_safety" package="com.google.android.apps.safetyhub" name="Personal Safety" />
+    <icon drawable="@drawable/photomath" package="com.microblink.photomath" name="Photomath" />
     <icon drawable="@drawable/picpay" package="com.picpay.business" name="PicPay Empresas" />
     <icon drawable="@drawable/picpay" package="com.picpay" name="PicPay" />
     <icon drawable="@drawable/picsart" package="com.picsart.studio" name="Picsart" />
