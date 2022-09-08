@@ -1,6 +1,7 @@
-# Lawnicons
+# PufferIcons
 Lawnicons is an add-on for adding themed icons to [Lawnchair 12 Alpha 5](https://github.com/LawnchairLauncher/lawnchair) and above, the latest version of Lawnchair Launcher.
 This addon is now the source of all themed icons, for simplicity.
+PufferIcons is a fork of Lawnicons.
 
 ## Download
 See the [Releases](https://github.com/LawnchairLauncher/lawnicons/releases) section to download the latest stable build of Lawnicons.
@@ -15,11 +16,12 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for info on adding icons.
 
 ## Requesting icons
 
-To request new icons, please use [the icon request form](https://forms.gle/Fx8vZAiWdW1Tyjo57).
+To request new icons, please use [the icon request form](https://pfrcat.link/lawnicons-form) or open a GitHub issue. I prioritize requests from the form.
 
 ## License
 Lawnicons is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See [LICENSE](LICENSE) for additional information.
 
 ## Quick links
+* [Lawnicons repo](http://github.com/LawnchairLauncher/lawnicons)
 * [Lawnchair GitHub page](https://github.com/LawnchairLauncher/lawnchair)
 
