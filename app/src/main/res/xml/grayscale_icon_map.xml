@@ -211,6 +211,49 @@
     <icon drawable="@drawable/dots_co" package="com.weplaydots.plus" name="Dots &amp; Co" />
     <icon drawable="@drawable/drivedroid" package="com.softwarebakery.drivedroid" name="DriveDroid" />
     <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.international" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.polish.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.korean.hangul.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.english.british.gb.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.japanese.kanji.katakana.hiragana.romaji.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.german.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.italian.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.icelandic.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.portuguese.european.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.norwegian.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.french.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.spanish.castilian.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.russian.cyrillic.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.chinese.mandarin.hanzi.pinyin.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.english.american.us.usa.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.el.greek.greece.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.swedish.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.danish.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.scrips.learn.write.alphabet.letters.characters.language.japanese.korean.chinese" name="Scripts" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.turkish.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.dutch.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.thai.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.arabic.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.croatian.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.serbian.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.hebrew.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.kids.letters.fun.write.words.learn.abc.alphabet.chinese.english.french.droplets" name="Droplets" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.estonian.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.persian.farsi.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.finnish.finland.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.spanish.latam.latinamerican.mexican.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.hindi.devanagari.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.esperanto.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.tagalog.filipino.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.bosnian.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.ainu.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.samoan.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.hawaiian.hawaii.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.reo.maori.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.hungarian.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.indonesian.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.vietnamese.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.portuguese.brazilian.words" name="Drops" />
+    <icon drawable="@drawable/overdrop" package="com.languagedrops.drops.learn.learning.speak.language.chinese.cantonese.hanzi.pinyin.words" name="Drops" />
     <icon drawable="@drawable/drm_info" package="com.androidfung.drminfo" name="DRM Info" />
     <icon drawable="@drawable/dropbox" package="com.dropbox.android" name="Dropbox" />
     <icon drawable="@drawable/duckduckgo" package="com.duckduckgo.mobile.android" name="DuckDuckGo" />
