@@ -86,6 +86,7 @@ android {
 }
 
 dependencies {
+    implementation("androidx.core:core-ktx:+")
     val lifecycleVersion = "2.5.1"
     val composeVersion = "1.2.1"
     val accompanistVersion = "0.25.1"
