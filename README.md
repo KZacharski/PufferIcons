@@ -4,7 +4,7 @@ This addon is now the source of all themed icons, for simplicity.
 PufferIcons is a fork of Lawnicons.
 
 ## Download
-See the [Puffercat:ROM Telegram channel](https://pufferrom.t.me) to download the latest stable build of PufferIcons.
+See the [Puffercat:ROM Telegram channel](https://pufferrom.t.me) (recommended) or [GitHub Releases in this repo](https://github.com/KZacharski/PufferIcons/releases) to download the latest stable build of PufferIcons.
 
 ## Adding icons
 
