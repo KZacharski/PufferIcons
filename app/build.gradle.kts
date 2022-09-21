@@ -18,8 +18,8 @@ android {
         applicationId = "app.lawnchair.lawnicons"
         minSdk = 26
         targetSdk = 31
-        versionCode = 6
-        versionName = "1.1.2 - (not really) a small update"
+        versionCode = 7
+        versionName = "1.1.3 - First Lawnicons 1.1.0-based update"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
     }
