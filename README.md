@@ -7,6 +7,7 @@ PufferIcons is a fork of Lawnicons.
 See the [Puffercat:ROM Telegram channel](https://pufferrom.t.me) to download the latest stable build of PufferIcons.
 
 ## Adding icons
+
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for info on adding icons.
 
 ## Requesting icons and bug reporting
@@ -14,6 +15,7 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for info on adding icons.
 To request new icons or report a bug, please use [the icon request/bug report form](https://pfrcat.link/puffericons-form) or open a GitHub issue. I prioritize requests and bug reports from the form.
 
 ## License
+
 Lawnicons is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See [LICENSE](LICENSE) for additional information.
 
 ## Quick links
