@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.fornewid.material-motion-compose:core:0.8.0-beta01@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/bb153bb56f704dd34652a955b7d1f804/transformed/core-0.8.0-beta01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/bb153bb56f704dd34652a955b7d1f804/transformed/core-0.8.0-beta01/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/bb153bb56f704dd34652a955b7d1f804/transformed/core-0.8.0-beta01/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/78367117d9e1fd92ee9fbc8176ed94b9/transformed/core-0.8.0-beta01/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/78367117d9e1fd92ee9fbc8176ed94b9/transformed/core-0.8.0-beta01/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.fornewid.material-motion-compose/core/0.8.0-beta01/614262bffa176425cbd2970c14f5e0a77a8b9ec6/core-0.8.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

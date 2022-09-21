@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.material3:material3:1.0.0-alpha13@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/13ef6046e026bb2736e6f1de48214cb8/transformed/material3-1.0.0-alpha13/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/13ef6046e026bb2736e6f1de48214cb8/transformed/material3-1.0.0-alpha13/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/13ef6046e026bb2736e6f1de48214cb8/transformed/material3-1.0.0-alpha13/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/c5c3d561c348362d117cea0e28cbb494/transformed/material3-1.0.0-alpha13/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/c5c3d561c348362d117cea0e28cbb494/transformed/material3-1.0.0-alpha13/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/c5c3d561c348362d117cea0e28cbb494/transformed/material3-1.0.0-alpha13/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3/1.0.0-alpha13/f179cad4f7bd2fbfd56089f0c920694bab73089a/material3-1.0.0-alpha13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

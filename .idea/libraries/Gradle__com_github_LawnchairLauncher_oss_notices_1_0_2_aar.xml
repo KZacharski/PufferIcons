@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.LawnchairLauncher:oss-notices:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/c4f0e630bf05b1e4aa075b958ce82165/transformed/oss-notices-1.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/c4f0e630bf05b1e4aa075b958ce82165/transformed/oss-notices-1.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/c4f0e630bf05b1e4aa075b958ce82165/transformed/oss-notices-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/652a3879a3b2451925987cde1565fe8b/transformed/oss-notices-1.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/652a3879a3b2451925987cde1565fe8b/transformed/oss-notices-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.LawnchairLauncher/oss-notices/1.0.2/1d7380f361d2742d0678a461cf9a3afcb7539cdb/oss-notices-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
