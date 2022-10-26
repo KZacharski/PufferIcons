@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192" viewBox="0 0 192 192">
-  <defs>
-    <clipPath id="clip-SPRK_default_preset_name_custom_1">
-      <rect width="192" height="192"/>
-    </clipPath>
-  </defs>
-  <g id="SPRK_default_preset_name_custom_1" data-name="SPRK_default_preset_name_custom – 1" clip-path="url(#clip-SPRK_default_preset_name_custom_1)">
-    <g id="Yandex_icon" transform="translate(7.737 7.617)">
-      <path id="Контур_2" data-name="Контур 2" d="M86.546,26.723H74.016c-22.971,0-35.053,11.039-35.053,27.314,0,18.4,8.353,27.018,25.507,38.07l14.17,9.058L37.919,158.893H7.49L44.035,107.25C23.016,92.956,11.219,79.074,11.219,55.594c0-29.437,21.629-49.534,62.648-49.534h40.721V158.752H86.546Z" transform="translate(24.224 5.906)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="5"/>
-    </g>
-  </g>
-</svg>
+<svg width="192" height="192" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path data-name="Контур 2" d="M120.675 42.01h-12.121c-22.222 0-33.91 10.69-33.91 26.45 0 17.818 8.08 26.163 24.675 36.866l13.708 8.772L73.634 170H44.197l35.353-50.01c-20.334-13.842-31.746-27.285-31.746-50.022C47.804 41.46 68.728 22 108.41 22h39.394v147.863h-27.128z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="5" style="stroke-width:12;stroke-miterlimit:4;stroke-dasharray:none"/></svg>
