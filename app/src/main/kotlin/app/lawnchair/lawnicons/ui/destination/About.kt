@@ -31,6 +31,19 @@ import app.lawnchair.lawnicons.ui.util.Contributor
 import app.lawnchair.lawnicons.ui.util.Destinations
 import app.lawnchair.lawnicons.util.appIcon
 
+private val getUpdatesAbout = listOf(
+    Contributor(
+        name = "Puffercat:ROM Telegram Channel (Preferred)",
+        photoUrl = "https://cdn.puffercat.xyz/c/puffericons/assets/pufferrom.png",
+        socialUrl = "https://pufferrom.t.me",
+    ),
+    Contributor(
+        name = "GitHub Releases",
+        photoUrl = "https://cdn.puffercat.xyz/c/lawnicons-fork/assets/github.png",
+        socialUrl = "https://github.com/KZacharski/PufferIcons/releases",
+    ),
+)
+
 private val requestBugForm = listOf(
     Contributor(
         name = "Form (Preferred)",
@@ -69,11 +82,6 @@ private val myApps = listOf(
         name = "Shapes - Wallpapers",
         photoUrl = "https://cdn.puffercat.xyz/c/shapes/logo.png",
         socialUrl = "https://play.google.com/store/apps/details?id=xyz.puffercat.shapes.android",
-    ),
-    Contributor(
-        name = "Tipper by myCALC",
-        photoUrl = "https://cdn.puffercat.xyz/c/lawnicons-fork/assets/tippericon.png",
-        socialUrl = "https://play.google.com/store/apps/details?id=pl.kacperzacharski.puffercat.tipper",
     ),
 )
 
@@ -133,7 +141,22 @@ fun About(navController: NavController) {
             }
             item {
                 Card(
+                    label = stringResource(id = R.string.updates),
+                ) {
+                    getUpdatesAbout.mapIndexed { index, it ->
+                        ContributorRow(
+                            name = it.name,
+                            photoUrl = it.photoUrl,
+                            socialUrl = it.socialUrl,
+                            divider = index != getUpdatesAbout.lastIndex,
+                        )
+                    }
+                }
+            }
+            item {
+                Card(
                     label = stringResource(id = R.string.important),
+                    modifier = Modifier.padding(top = 16.dp,),
                 ) {
                     requestBugForm.mapIndexed { index, it ->
                         ContributorRow(
