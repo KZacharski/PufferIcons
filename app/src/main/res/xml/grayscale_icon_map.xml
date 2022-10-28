@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
     <icon drawable="@drawable/a12_extensions" package="dev.kdrag0n.android12ext" name="Android 12 Extensions" />
+    <icon drawable="@drawable/abstracto" package="com.lagguy.abstracto" name="Abstracto" />
     <icon drawable="@drawable/accubattery" package="com.digibites.accubattery" name="AccuBattery" />
     <icon drawable="@drawable/adaway" package="org.adaway" name="AdAway" />
     <icon drawable="@drawable/aegis_authenticator" package="com.beemdevelopment.aegis" name="Aegis Authenticator" />
@@ -60,6 +61,7 @@
     <icon drawable="@drawable/blokada" package="org.blokada.origin.alarm" name="Blokada" />
     <icon drawable="@drawable/blokada" package="org.blokada.sex" name="Blokada" />
     <icon drawable="@drawable/bloons_td_6" package="com.ninjakiwi.bloonstd6" name="Bloons TD 6" />
+    <icon drawable="@drawable/blurry_wallpapers" package="xyz.puffercat.blurrywalls.android" name="Blurry Wallpapers" />
     <icon drawable="@drawable/bni_mobile" package="src.com.bni" name="BNI Mobile Banking" />
     <icon drawable="@drawable/boi" package="com.bankofireland.mobilebanking" name="BOI Mobile" />
     <icon drawable="@drawable/book_reader" package="com.github.axet.bookreader" name="Book Reader" />
@@ -254,6 +256,7 @@
     <icon drawable="@drawable/dislyte" package="com.lilithgames.xgame.gp" name="Dislyte" />
     <icon drawable="@drawable/disneyplus" package="com.disney.disneyplus" name="Disney+" />
     <icon drawable="@drawable/dolby" package="com.dolby" name="Dolby" />
+    <icon drawable="@drawable/dolby" package="com.motorola.dolby.dolbyui" name="Moto Audio" />
     <icon drawable="@drawable/dominos" package="by.mc.dominos.com" name="Domino's Pizza" />
     <icon drawable="@drawable/dominos" package="com.boloid.dominos" name="Domino's Pizza" />
     <icon drawable="@drawable/dominos" package="com.dominos.bd" name="Domino's Pizza" />
