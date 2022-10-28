@@ -186,6 +186,10 @@
     <icon drawable="@drawable/citibank_mobile" package="com.citiuat" name="Citi Mobile" />
     <icon drawable="@drawable/clash_of_clans" package="com.supercell.clashofclans" name="Clash Of Clans" />
     <icon drawable="@drawable/clash_royale" package="com.supercell.clashroyale" name="Clash Royale" />
+    <icon drawable="@drawable/clock" package="com.android.deskclock" name="Clock" />
+    <icon drawable="@drawable/clock" package="com.motorola.cn.deskclock" name="Clock" />
+    <icon drawable="@drawable/clock" package="com.oneplus.deskclock" name="Clock" />
+    <icon drawable="@drawable/clock" package="com.sec.android.app.clockpackage" name="Clock" />
     <icon drawable="@drawable/cnn" package="com.cnn.mobile.android.phone" name="CNN" />
     <icon drawable="@drawable/cod_mobile" package="com.activision.callofduty.shooter" name="Call of Duty Mobile" />
     <icon drawable="@drawable/codecademy_go" package="com.ryzac.codecademygo" name="Codecademy Go" />
@@ -244,6 +248,7 @@
     <icon drawable="@drawable/dialer" package="com.truecaller" name="Phone" />
     <icon drawable="@drawable/digital_wellbeing" package="com.google.android.apps.wellbeing" name="Digital Wellbeing" />
     <icon drawable="@drawable/digital_wellbeing" package="com.samsung.android.forest" name="Digital Wellbeing" />
+    <icon drawable="@drawable/diphda" package="pl.rkbdi.diphda" name="Diphda" />
     <icon drawable="@drawable/discord" package="com.aliucord" name="Aliucord" />
     <icon drawable="@drawable/discord" package="com.discord" name="Discord" />
     <icon drawable="@drawable/dislyte" package="com.lilithgames.xgame.gp" name="Dislyte" />
@@ -477,6 +482,7 @@
     <icon drawable="@drawable/instagram" package="com.instagram.android" name="Instagram" />
     <icon drawable="@drawable/instagram" package="com.instagram.lite" name="Instagram" />
     <icon drawable="@drawable/instapaper" package="com.instapaper.android" name="Instapaper" />
+    <icon drawable="@drawable/integrity_checker" package="gr.nikolasspyr.integritycheck" name="Play Integrity API Checker" />
     <icon drawable="@drawable/inter" package="br.com.Inter.CDPro" name="Inter" />
     <icon drawable="@drawable/inter" package="br.com.intermedium" name="Inter" />
     <icon drawable="@drawable/inware" package="com.evo.inware" name="Inware" />
