@@ -19,7 +19,7 @@ android {
         minSdk = 26
         targetSdk = 31
         versionCode = 8
-        versionName = "1.1.4 - Long break update"
+        versionName = "1.1.4 - OEM update"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
     }
