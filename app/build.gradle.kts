@@ -20,7 +20,6 @@ android {
         targetSdk = 31
         versionCode = 8
         versionName = "1.1.4 - OEM update"
-        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
     }
 
@@ -91,8 +90,8 @@ hilt.enableAggregatingTask = false
 dependencies {
     val lifecycleVersion = "2.5.1"
     val composeVersion = "1.3.0"
-    val accompanistVersion = "0.27.0"
-    val hiltVersion = "2.44"
+    val accompanistVersion = "0.27.1"
+    val hiltVersion = "2.44.2"
     val retrofitVersion = "2.9.0"
 
     implementation("androidx.core:core-ktx:1.9.0")
@@ -102,14 +101,14 @@ dependencies {
     implementation("androidx.compose.ui:ui-tooling:$composeVersion")
     implementation("androidx.compose.animation:animation:$composeVersion")
     implementation("androidx.compose.material:material:$composeVersion")
-    implementation("androidx.compose.material3:material3:1.0.0")
+    implementation("androidx.compose.material3:material3:1.1.0-alpha02")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:$lifecycleVersion")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:$lifecycleVersion")
     implementation("com.google.accompanist:accompanist-insets:$accompanistVersion")
     implementation("com.google.accompanist:accompanist-systemuicontroller:$accompanistVersion")
     implementation("com.google.accompanist:accompanist-placeholder-material:$accompanistVersion")
     implementation("com.google.accompanist:accompanist-navigation-animation:$accompanistVersion")
-    implementation("io.github.fornewid:material-motion-compose-core:0.9.1")
+    implementation("io.github.fornewid:material-motion-compose-core:0.10.3")
     implementation("com.google.dagger:hilt-android:$hiltVersion")
     annotationProcessor("com.google.dagger:hilt-android-compiler:$hiltVersion")
     implementation("androidx.hilt:hilt-navigation-compose:1.0.0")
