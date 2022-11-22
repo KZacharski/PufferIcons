@@ -7,6 +7,7 @@
     <icon drawable="@drawable/actionbound" package="de.actionbound" name="Actionbound" />
     <icon drawable="@drawable/adaway" package="org.adaway" name="AdAway" />
     <icon drawable="@drawable/adidas" package="com.adidas.app" name="adidas" />
+    <icon drawable="@drawable/adobe" package="com.adobe.reader" name="Adobe Acrobat Reader" />
     <icon drawable="@drawable/advanced_download_manager" package="com.dv.adm" name="Advanced Download Manager" />
     <icon drawable="@drawable/advanced_download_manager" package="com.dv.adm.pay" name="Advanced Download Manager" />
     <icon drawable="@drawable/aegis_authenticator" package="com.beemdevelopment.aegis" name="Aegis Authenticator" />
@@ -155,6 +156,7 @@
     <icon drawable="@drawable/calculator_plus" package="com.gigaworks.tech.calculator" name="Calculator Plus" />
     <icon drawable="@drawable/simplecalendar" package="com.simplemobiletools.calendar" name="Calendar" />
     <icon drawable="@drawable/simplecalendar" package="com.simplemobiletools.calendar.pro" name="Calendar" />
+    <icon drawable="@drawable/calculator_plus" package="com.gigaworks.tech.calculator" name="Calculator Plus" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera.play" name="Camera" />
     <icon drawable="@drawable/camera" package="com.GoogleCamera.Burial" name="Camera" />
@@ -200,9 +202,12 @@
     <icon drawable="@drawable/camera" package="org.lineageos.aperture" name="Camera" />
     <icon drawable="@drawable/camera" package="org.lineageos.selfie" name="Camera" />
     <icon drawable="@drawable/camera" package="org.lineageos.snap" name="Camera" />
+<<<<<<< HEAD
     <icon drawable="@drawable/camera" package="com.simplemobiletools.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.camera" name="Camera" />
     <icon drawable="@drawable/capod" package="eu.darken.capod" name="CAPod" />
+=======
+>>>>>>> 7100d52f308cd8386bf2c6ca00bd64c0d80ac0d4
     <icon drawable="@drawable/cameraconnect" package="jp.co.canon.ic.cameraconnect" name="Camera Connect" />
     <icon drawable="@drawable/camo" package="com.reincubate.camo" name="Camo" />
     <icon drawable="@drawable/camscanner" package="com.intsig.camscanner" name="CamScanner" />
@@ -231,6 +236,9 @@
     <icon drawable="@drawable/clock" package="com.simplemobiletools.clock" name="Clock" />
     <icon drawable="@drawable/clock" package="com.coloros.alarmclock" name="Clock" />
     <icon drawable="@drawable/cnn" package="com.cnn.mobile.android.phone" name="CNN" />
+    <icon drawable="@drawable/clock" package="com.dslit.floatingclock" name="Floating Clock" />
+    <icon drawable="@drawable/clock" package="com.sec.android.app.clockpackage" name="Clock" />
+    <icon drawable="@drawable/clock" package="com.simplemobiletools.clock" name="Clock" />
     <icon drawable="@drawable/cod_mobile" package="com.activision.callofduty.shooter" name="Call of Duty Mobile" />
     <icon drawable="@drawable/code_editor" package="com.rhmsoft.code" name="Code Editor" />
     <icon drawable="@drawable/codecademy_go" package="com.ryzac.codecademygo" name="Codecademy Go" />
@@ -387,6 +395,7 @@
     <icon drawable="@drawable/ebay" package="com.ebay.mobile" name="eBay" />
     <icon drawable="@drawable/ebay_kleinanzeigen" package="com.ebay.kleinanzeigen" name="eBay Kleinanzeigen" />
     <icon drawable="@drawable/edx" package="org.edx.mobile" name="edX" />
+    <icon drawable="@drawable/dynamic_spot" package="com.jamworks.dynamicspot" name="dynamicSpot" />
     <icon drawable="@drawable/eight_ball_pool" package="com.miniclip.eightballpool" name="8 Ball Pool" />
     <icon drawable="@drawable/eksi_sozluk" package="com.eksiteknoloji.eksisozluk" name="ekşi sözlük" />
     <icon drawable="@drawable/eksi_sozluk" package="com.drdisagree.iconify" name="ekşi sözlük" />
@@ -394,6 +403,7 @@
     <icon drawable="@drawable/element" package="im.vector.app" name="Element" />
     <icon drawable="@drawable/ella" package="rocks.poopjournal.Ella" name="Ella" />
     <icon drawable="@drawable/enpass" package="io.enpass.app" name="Enpass" />
+    <icon drawable="@drawable/erste_hilfe" package="com.cube.gdpc.che" name="Erste Hilfe" />
     <icon drawable="@drawable/eventim" package="de.eventim.mobile.app.Android" name="EVENTIM" />
     <icon drawable="@drawable/every_proxy" package="com.gorillasoftware.everyproxy" name="Every Proxy" />
     <icon drawable="@drawable/exteragram" package="com.exteragram.messenger" name="exteraGram" />
@@ -669,6 +679,7 @@
     <icon drawable="@drawable/maps" package="com.google.android.apps.mapslite" name="Google Maps" />
     <icon drawable="@drawable/marindeck" package="online.hisubway.marindeck" name="MarinDeck" />
     <icon drawable="@drawable/mastodon" package="org.joinmastodon.android" name="Mastodon" />
+    <icon drawable="@drawable/mastodon" package="org.joinmastodon.android.sk" name="Mastodon" />
     <icon drawable="@drawable/material_catalog" package="androidx.compose.material.catalog" name="Compose Material Catalog" />
     <icon drawable="@drawable/material_catalog" package="com.numero.material_gallery" name="MaterialGallery " />
     <icon drawable="@drawable/material_catalog" package="io.material.catalog" name="Material Catalog" />
@@ -840,6 +851,7 @@
     <icon drawable="@drawable/osmand" package="net.osmand" name="OsmAnd" />
     <icon drawable="@drawable/osmand_plus" package="net.osmand.plus" name="OsmAnd+" />
     <icon drawable="@drawable/oto_music" package="com.piyush.music" name="Oto Music" />
+    <icon drawable="@drawable/oto_music" package="de.moekadu.tuner" name="Oto Music" />
     <icon drawable="@drawable/overdrop" package="widget.dd.com.overdrop.free" name="Overdrop" />
     <icon drawable="@drawable/overdrop" package="widget.dd.com.overdrop.pro" name="Overdrop Pro Key" />
     <icon drawable="@drawable/ovinfo" package="nl.skywave.ovinfo" name="OVinfo" />
