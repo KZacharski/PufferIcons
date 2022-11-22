@@ -202,12 +202,9 @@
     <icon drawable="@drawable/camera" package="org.lineageos.aperture" name="Camera" />
     <icon drawable="@drawable/camera" package="org.lineageos.selfie" name="Camera" />
     <icon drawable="@drawable/camera" package="org.lineageos.snap" name="Camera" />
-<<<<<<< HEAD
     <icon drawable="@drawable/camera" package="com.simplemobiletools.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.camera" name="Camera" />
     <icon drawable="@drawable/capod" package="eu.darken.capod" name="CAPod" />
-=======
->>>>>>> 7100d52f308cd8386bf2c6ca00bd64c0d80ac0d4
     <icon drawable="@drawable/cameraconnect" package="jp.co.canon.ic.cameraconnect" name="Camera Connect" />
     <icon drawable="@drawable/camo" package="com.reincubate.camo" name="Camo" />
     <icon drawable="@drawable/camscanner" package="com.intsig.camscanner" name="CamScanner" />

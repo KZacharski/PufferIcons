@@ -18,13 +18,8 @@ android {
         applicationId = "app.lawnchair.lawnicons"
         minSdk = 26
         targetSdk = 31
-<<<<<<< HEAD
         versionCode = 8
         versionName = "1.1.4 - OEM update"
-=======
-        versionCode = 3
-        versionName = "1.2.0"
->>>>>>> 7100d52f308cd8386bf2c6ca00bd64c0d80ac0d4
         vectorDrawables.useSupportLibrary = true
     }
 
