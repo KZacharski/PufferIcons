@@ -39,4 +39,13 @@
     <string name="my_apps">Check out my other apps</string>
     <string name="important">Icon request/Bug report</string>
     <string name="updates">Get updates</string>
+
+    <!-- Icon Information Popup window -->
+
+    <!-- Drawable prefix -->
+    <string name="drawable_prefix">Drawable:</string>
+    <!-- Package prefix -->
+    <string name="package_prefix">Package:</string>
+    <!-- OK button -->
+    <string name="ok_button">OK</string>
 </resources>
