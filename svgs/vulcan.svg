@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy 55</title>
+    <g id="Artboard-Copy-55" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(9.567414, 7.090595)" stroke="#000000" stroke-width="12">
+            <path d="M0,21.0720431 L172.940039,21.0720431 L172.940039,118.072043 C172.940039,128.013169 164.881165,136.072043 154.940039,136.072043 L18,136.072043 C8.0588745,136.072043 1.21743675e-15,128.013169 0,118.072043 L0,21.0720431 L0,21.0720431 Z" id="Path-26"></path>
+            <line x1="86.4700197" y1="21.0720431" x2="86.4700197" y2="0" id="Path-27"></line>
+            <line x1="86.432586" y1="109.909405" x2="86.4700197" y2="48" id="Path-27-Copy"></line>
+            <line x1="86.432586" y1="176.909405" x2="86.432586" y2="135.909405" id="Path-27-Copy-3"></line>
+            <line x1="127.432586" y1="176.909405" x2="86.432586" y2="135.909405" id="Path-27-Copy-4"></line>
+            <line x1="86.432586" y1="176.909405" x2="45.432586" y2="135.909405" id="Path-27-Copy-5" transform="translate(65.970020, 156.000000) scale(-1, 1) translate(-65.970020, -156.000000) "></line>
+            <line x1="86.432586" y1="109.909405" x2="86.4700197" y2="48" id="Path-27-Copy-2" transform="translate(85.970020, 79.000000) rotate(89.965356) translate(-85.970020, -79.000000) "></line>
+        </g>
+    </g>
+</svg>

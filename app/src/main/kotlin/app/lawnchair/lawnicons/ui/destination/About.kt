@@ -2,6 +2,7 @@ package app.lawnchair.lawnicons.ui.destination
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
@@ -34,27 +35,57 @@ import app.lawnchair.lawnicons.ui.util.Contributor
 import app.lawnchair.lawnicons.ui.util.Destinations
 import app.lawnchair.lawnicons.util.appIcon
 
+private val getUpdatesAbout = listOf(
+    Contributor(
+        name = "Puffercat:ROM Telegram Channel (Preferred)",
+        photoUrl = "https://cdn.puffercat.xyz/c/puffericons/assets/pufferrom.png",
+        socialUrl = "https://pufferrom.t.me",
+    ),
+    Contributor(
+        name = "Puffercat Apps",
+        photoUrl = "https://cdn.puffercat.xyz/c/puffercat-apps/branding/logo-small.png",
+        socialUrl = "https://apps.puffercat.xyz/details/PufferIcons",
+    ),
+    Contributor(
+        name = "GitHub Releases",
+        photoUrl = "https://cdn.puffercat.xyz/c/lawnicons-fork/assets/github.png",
+        socialUrl = "https://github.com/KZacharski/PufferIcons/releases",
+    ),
+)
+
+private val requestBugForm = listOf(
+    Contributor(
+        name = "Form (Preferred)",
+        photoUrl = "https://cdn.puffercat.xyz/c/lawnicons-fork/assets/form.png",
+        socialUrl = "https://pfrcat.link/puffericons-form",
+    ),
+    Contributor(
+        name = "GitHub Issues",
+        photoUrl = "https://cdn.puffercat.xyz/c/lawnicons-fork/assets/github.png",
+        socialUrl = "https://github.com/KZacharski/PufferIcons/issues",
+    ),
+)
+
 private val coreContributors = listOf(
+    Contributor(
+    name = "Kacper Zacharski (Puffercat)",
+    username = "KZacharski",
+    photoUrl = "https://cdn.puffercat.xyz/c/branding/logo-basic.png",
+    socialUrl = "https://puffercat.xyz",
+),
     Contributor(
         name = "paphonb",
         username = "paphonb",
         photoUrl = "https://avatars.githubusercontent.com/u/8080853",
         socialUrl = "https://twitter.com/paphonb",
     ),
-)
+    )
 
-private val specialThanks = listOf(
+private val myApps = listOf(
     Contributor(
-        name = "Eatos",
-        photoUrl = "https://avatars.githubusercontent.com/u/52837599",
-        socialUrl = "https://twitter.com/eatosapps",
-        descriptionRes = R.string.special_thanks_icon,
-    ),
-    Contributor(
-        name = "Rik Koedoot",
-        photoUrl = "https://avatars.githubusercontent.com/u/29402532",
-        username = "rikkoedoot",
-        descriptionRes = R.string.special_thanks_name,
+        name = "Check out my other apps",
+        photoUrl = "https://cdn.puffercat.xyz/c/puffercat-apps/branding/logo-small.png",
+        socialUrl = "https://apps.puffercat.xyz",
     ),
 )
 
@@ -113,12 +144,42 @@ fun About(navController: NavController) {
                 }
             }
             item {
-                Card(label = stringResource(id = R.string.core_contributors)) {
+                Card(
+                    label = stringResource(id = R.string.updates),
+                ) {
+                    getUpdatesAbout.mapIndexed { index, it ->
+                        ContributorRow(
+                            name = it.name,
+                            photoUrl = it.photoUrl,
+                            socialUrl = it.socialUrl,
+                            divider = index != getUpdatesAbout.lastIndex,
+                        )
+                    }
+                }
+            }
+            item {
+                Card(
+                    label = stringResource(id = R.string.important),
+                    modifier = Modifier.padding(top = 16.dp,),
+                ) {
+                    requestBugForm.mapIndexed { index, it ->
+                        ContributorRow(
+                            name = it.name,
+                            photoUrl = it.photoUrl,
+                            socialUrl = it.socialUrl,
+                            divider = index != requestBugForm.lastIndex,
+                        )
+                    }
+                }
+            }
+            item {
+                Card(label = stringResource(id = R.string.core_contributors),
+                    modifier = Modifier.padding(top = 16.dp,)) {
                     coreContributors.mapIndexed { index, it ->
                         ContributorRow(
                             name = it.name,
                             photoUrl = it.photoUrl,
-                            profileUrl = "https://github.com/${it.username}",
+                            profileUrl = it.socialUrl,
                             divider = index != coreContributors.lastIndex,
                         )
                     }
@@ -135,20 +196,20 @@ fun About(navController: NavController) {
             }
             item {
                 Card(
-                    label = stringResource(id = R.string.special_thanks),
-                    modifier = Modifier.padding(top = 16.dp),
+                    modifier = Modifier.padding(top = 35.dp,),
                 ) {
-                    specialThanks.mapIndexed { index, it ->
+                    myApps.mapIndexed { index, it ->
                         ContributorRow(
                             name = it.name,
                             photoUrl = it.photoUrl,
-                            profileUrl = it.username?.let { "https://github.com/$it" },
-                            description = it.descriptionRes?.let { stringResource(id = it) },
-                            divider = index != specialThanks.lastIndex,
                             socialUrl = it.socialUrl,
+                            divider = index != myApps.lastIndex,
                         )
                     }
                 }
+            }
+            item {
+                Spacer(modifier = Modifier.padding(top = 25.dp,),)
             }
         }
     }

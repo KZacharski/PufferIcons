@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none" viewBox="0 0 192 192"><path d="M33.83 46v62.997c.16 3.087 1.453 21.753 17.223 34.618A47.477 47.695 0 0 0 80 154a47.477 47.695 0 0 0 28.947-10.384c15.792-12.865 17.063-31.531 17.223-34.618V46" class="cls-2" style="fill:none;stroke:#000;stroke-width:12px;stroke-linecap:round;stroke-miterlimit:10" transform="translate(16 16)"/><path d="M34 25 80 6l45 19" style="fill:none;stroke:#000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:stroke fill markers" transform="translate(16 16)"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy 68</title>
+    <g id="Artboard-Copy-68" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M60.1307797,80.3537128 L60.1307797,143.183057 C60.1309213,148.567881 61.373546,153.880057 63.7624227,158.705986 C70.979836,173.290164 82.016803,180.582254 96.8733236,180.582254 C111.426562,180.582254 122.112304,173.872427 128.930551,160.452772 C131.425398,155.54195 132.725829,150.111589 132.726207,144.603374 L132.726207,80.3537128 L132.726207,80.3537128" id="Path-28" stroke="#000000" stroke-width="12"></path>
+        <polyline id="Path-29" stroke="#000000" stroke-width="12" points="55.4658155 34.0841286 96.8733236 10.5822537 137.319872 34.0841286"></polyline>
+    </g>
+</svg>

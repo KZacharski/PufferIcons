@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy 16</title>
+    <g id="Artboard-Copy-16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="ion:glasses-outline" transform="translate(17.000000, 21.000000)" stroke="#000000" stroke-width="12">
+            <path d="M66.4230769,114 C66.4230769,107.372583 71.8300996,102 78.5,102 C85.1699004,102 90.5769231,107.372583 90.5769231,114 M150.961538,102 L157,102 M6.03846154,102 L0,102 M6.03846154,102 C6.03846154,138 12.0769231,150 36.2307692,150 C60.3846154,150 66.4230769,138 66.4230769,102 C66.4230769,102 60.3846154,96 36.2307692,96 C12.0769231,96 6.03846154,102 6.03846154,102 Z M150.961538,102 C150.961538,138 144.923077,150 120.769231,150 C96.6153846,150 90.5769231,138 90.5769231,102 C90.5769231,102 96.6153846,96 120.769231,96 C144.923077,96 150.961538,102 150.961538,102 Z" id="Shape"></path>
+            <line x1="18.5" y1="58" x2="18.5" y2="95" id="Line"></line>
+            <line x1="54.5" y1="0" x2="54.5" y2="95" id="Line-Copy"></line>
+            <line x1="101.5" y1="38" x2="101.5" y2="96" id="Line-Copy-2"></line>
+            <line x1="137.5" y1="13" x2="137.5" y2="95" id="Line-Copy-3"></line>
+        </g>
+    </g>
+</svg>

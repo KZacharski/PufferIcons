@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy 78</title>
+    <g id="Artboard-Copy-78" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#000000" stroke-width="12" cx="122.5" cy="53.5" r="4.5"></circle>
+        <rect id="Rectangle" stroke="#000000" stroke-width="12" x="44" y="24" width="103" height="140" rx="20"></rect>
+        <path d="M44.9687279,121.21966 L68.3509258,80.9813884 C70.2932989,77.6387711 74.5776302,76.503649 77.9202475,78.4460221 C79.0643548,79.1108555 79.9965872,80.0863615 80.6088593,81.2594376 L123.357059,163.162382 L123.357059,163.162382" id="Path-37" stroke="#000000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M110.176165,130.353102 L117.852022,117.143771 C119.794395,113.801154 124.078726,112.666031 127.421343,114.608405 C128.565451,115.273238 129.497683,116.248744 130.109955,117.42182 L147.198475,150.162382 L147.198475,150.162382" id="Path-37-Copy" stroke="#000000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M148.24394,39.5486111 L163.494601,44.1449936 C169.71251,46.0190034 173.311324,52.4995116 171.615361,58.7683244 L147.185296,149.069526 L147.185296,149.069526" id="Path-38" stroke="#000000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M17.2439401,39.5486111 L32.4946009,44.1449936 C38.7125099,46.0190034 42.3113243,52.4995116 40.6153613,58.7683244 L16.1852962,149.069526 L16.1852962,149.069526" id="Path-38-Copy" stroke="#000000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" transform="translate(29.923181, 94.309068) scale(-1, 1) translate(-29.923181, -94.309068) "></path>
+    </g>
+</svg>
